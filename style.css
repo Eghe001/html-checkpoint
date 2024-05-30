@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+      }
+      p{
+          color: brown;
+      }
+      form{
+          border: 1px solid black;
+      }
+
+      article > p {
+        background-color: red;
+        width: 150px;
+        height: 40px;
+        
+      }
+
+      article{
+        font-weight: bolder;
+        text-decoration:underline;
+      }
+      
+      a:link{
+        color: blue;
+      }
+
+      a:visited{
+        color: green;
+      }
+
